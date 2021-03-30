@@ -21,7 +21,7 @@ Here I will explain how to download it Windows
 
 You can download Git by visiting this link and following the posted directions:
 
-[Git by visiting](http://git-scm.com/download/win)
+[download Git](http://git-scm.com/download/win)
 
 GitHub
 
@@ -32,6 +32,9 @@ Install Git as part of the GitHub for Windows install.
 ## Check Settings
  
  To check settings, use the git config --list command.
+
+ ex:
+ `$ git status`
 
 ## The Life Cycle of File Status
 
