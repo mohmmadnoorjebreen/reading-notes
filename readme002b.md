@@ -21,10 +21,10 @@ There are many commands and we will give examples of some of them
 
 ### Lists
 * Unordered
-
+```
   1. * Item 1
      * Item 2
-
+```
 ### Images 
 
 ```
