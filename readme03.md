@@ -13,7 +13,7 @@ Before starting the design process, several things must be defined, such as:
 
  Well after knowing the things that we need to be built the site , now we should start planning.
 
- ![sitemap](‪C:\Users\Jebreen\Desktop\sitemap.PNG)
+ ![sitemap](‪https://cdn6.f-cdn.com/files/download/107256233/1.png)
 
 ## Duckett: HTML & CSS, Chapter 1: Structure
 HTML is the standard markup language for documents designed to be displayed in a web.
