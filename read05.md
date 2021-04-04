@@ -13,8 +13,8 @@ eight  operators to comparing:
 4. !== , strict not equal to , (compares two values to see if the data type and the values are not the same )
 5. `>` , greater than
 6. `<` , less than
-7. `>` , greater than or equal to
-8. `<` , less than or equal to
+7. `>=` , greater than or equal to
+8. `<=` , less than or equal to
 
 ## logical operators:
 A logical operator is a symbol or word used to connect two or more expressions such that the value of the compound expression produced depends only on that of the original expressions and on the meaning of the operator. Common logical operators include AND, OR, and NOT.
