@@ -19,7 +19,7 @@ note: Adjustments were made to add the visual component, indicate important word
 ## Code 201 Reading Notes
 |# | code201| 
 |- | -------|
-|1 |[class-01](https://mohmmadnoorjebreen.github.io/reading-notes/class-01)
+|1 |[class-01](https://mohmmadnoorjebreen.github.io/reading-notes/class-01)|
 |2 |
 |3 |
 |4 |
