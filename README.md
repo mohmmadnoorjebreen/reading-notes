@@ -21,7 +21,7 @@ note: Adjustments were made to add the visual component, indicate important word
 |# | code201| 
 |- | -------|
 |1 | [class-01](https://mohmmadnoorjebreen.github.io/reading-notes/class-01)|
-|2 | 
+|2 | [class-02]( https://mohmmadnoorjebreen.github.io/reading-notes/class-02)
 |3 | 
 |4 | 
 |5 | 
