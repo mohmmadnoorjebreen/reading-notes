@@ -20,7 +20,7 @@ note: Adjustments were made to add the visual component, indicate important word
 |1 | [class-01](https://mohmmadnoorjebreen.github.io/reading-notes/class-01)|
 |2 | [class-02]( https://mohmmadnoorjebreen.github.io/reading-notes/class-02)
 |3 | [class-03](https://mohmmadnoorjebreen.github.io/reading-notes/class-03)
-|4 |
+|4 | [class-04](https://mohmmadnoorjebreen.github.io/reading-notes/class-04)
 |5 |
 |6 |
 |7 |
