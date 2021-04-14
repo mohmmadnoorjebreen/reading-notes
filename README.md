@@ -21,7 +21,7 @@ note: Adjustments were made to add the visual component, indicate important word
 |2 | [class-02]( https://mohmmadnoorjebreen.github.io/reading-notes/class-02)
 |3 | [class-03](https://mohmmadnoorjebreen.github.io/reading-notes/class-03)
 |4 | [class-04](https://mohmmadnoorjebreen.github.io/reading-notes/class-04)
-|5 |
+|5 | [class-5](https://mohmmadnoorjebreen.github.io/reading-notes/class-05)
 |6 |
 |7 |
 |8 |
