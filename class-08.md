@@ -126,7 +126,7 @@ padding: 5px;
 background-color: #efefef;}
 ```
 
-![Float](https://www.1keydata.com/css-tutorial/website-layout-using-float.jpg)
+![Float](https://i.stack.imgur.com/CmuhZ.png)
 
 ### Screen Sizes
 
