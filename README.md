@@ -38,7 +38,7 @@ note: Adjustments were made to add the visual component, indicate important word
 |# | code301|
 |- | -------|
 |1 | [read-01](https://mohmmadnoorjebreen.github.io/reading-notes/read-01)|
-
+|2 | [read-02](https://mohmmadnoorjebreen.github.io/reading-notes/read-02)|
 
 
 ## Things I want to know more about
