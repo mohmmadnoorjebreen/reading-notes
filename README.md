@@ -39,6 +39,6 @@ note: Adjustments were made to add the visual component, indicate important word
 |- | -------|
 |1 | [read-01](https://mohmmadnoorjebreen.github.io/reading-notes/read-01)|
 |2 | [read-02](https://mohmmadnoorjebreen.github.io/reading-notes/read-02)|
-
+|3 | [read-02](https://mohmmadnoorjebreen.github.io/reading-notes/read-03)|
 
 ## Things I want to know more about
