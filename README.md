@@ -63,4 +63,5 @@ note: Adjustments were made to add the visual component, indicate important word
 |01 | [read04-01](https://mohmmadnoorjebreen.github.io/reading-notes/read04-01)|
 |02 | [read04-02](https://mohmmadnoorjebreen.github.io/reading-notes/read04-02)|
 |03 | [read04-03](https://mohmmadnoorjebreen.github.io/reading-notes/read04-03)|
+|04 | [read04-04](https://mohmmadnoorjebreen.github.io/reading-notes/read04-04)|
 ## Things I want to know more about
